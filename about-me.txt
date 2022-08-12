@@ -1,0 +1,11 @@
+With Netbeans IDE
+
+B1: right click on "Button" of Palette
+
+B2: Click on PaletteManager
+
+B3: Add from JAR 
+
+B4: Chooser file SwitchButton.jar in folder clone git
+
+B5: drag and drop SwitchButton.jar into frame
